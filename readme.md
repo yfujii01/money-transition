@@ -16,6 +16,8 @@
     1. sudo mv chromedriver /usr/local/bin
     1. rm chromedriver_linux64.zip
 
+1. mkdir data
+
 1. python init.py
 
 ## 結果
