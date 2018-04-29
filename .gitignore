@@ -1,0 +1,5 @@
+config.json
+data/
+venv/
+.idea/
+__pycache__/
